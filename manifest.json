@@ -7,7 +7,7 @@
         "lib/helpers.js": "22b2b4bb9cd6134fcaa92b801324ee1aae36eae2409429074167aaf540cb8477",
         "lib/rpc-handler.js": "602bb34e1aaea8024fbec4d325c017506cd36fab9e42fc12b43d7b408708929e",
         "lib/rpc-server.js": "003440bd3886c42be8494946b959bdd4f2b1a1f528c1cc635d76d8c5ee9c2a09",
-        "module.json": "4ebf287413e9d6278ce26656efb7ce6d57c32ec9956114a3075c2456df67aa38"
+        "module.json": "1eb919ff6f40fca1fc41e6a14318f3f617848df8cefa5033780cd9067d22f2f4"
     },
     "defs": {
         "C_CHECK_VERSION": "c_login_arbiter",
